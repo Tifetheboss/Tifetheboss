@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Javascript, Tailwind, Solidity**
 
-- 📫 How to reach me **https://www.linkedin.com/in/boluwatife-akindele-ab5829251/**
+- 📫 How to reach me **www.linkedin.com/in/boluwatifeakindele**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
