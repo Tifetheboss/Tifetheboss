@@ -31,3 +31,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tifetheboss&show_icons=true&locale=en" alt="tifetheboss" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tifetheboss&" alt="tifetheboss" /></p>
+
+<a href="https://www.buymeacoffee.com/tife" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
